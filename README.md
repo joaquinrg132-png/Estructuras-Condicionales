@@ -1,6 +1,6 @@
 # Programas con Estructuras Condicionales en Python
 
-**Nombre completo:** Joaquín Rybén Rosales García  
+**Nombre completo:** Joaquín Rubén Rosales García  
 **Número de control:** 26150079  
 
 Este repositorio contiene 5 programas desarrollados en Python que utilizan estructuras condicionales (`if`, `elif`, `else`) para resolver diferentes problemas lógicos.
